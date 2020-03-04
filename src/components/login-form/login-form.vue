@@ -16,7 +16,7 @@
         </span>
       </Input>
       <div style="float: right;margin-right: 70px">
-        <Checkbox>勾选记住用户名和密码</Checkbox>
+        <!--<Checkbox>勾选记住用户名和密码</Checkbox>-->
       </div>
     </FormItem>
     <FormItem style="margin-bottom: 10px !important;">
