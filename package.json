@@ -13,7 +13,7 @@
   "dependencies": {
     "@form-create/iview": "^1.0.6",
     "animate.css": "^3.7.2",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "clipboard": "^2.0.0",
     "codemirror": "^5.49.2",
     "countup": "^1.8.2",
